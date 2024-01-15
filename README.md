@@ -1,2 +1,2 @@
-# odin-recipes
-Odin Recipe Project
+# The Odin Project | Recipe
+Recipe website with a brutalist design
